@@ -15,7 +15,7 @@ public class Princiipal {
 //        servicoDeCobranca.pagar(fatura, new String[0]);
 //        servicoDeCobranca.pagar(fatura, new String[]{});
 
-        servicoDeCobranca.pagar(fatura, "joao@algaworks.com", "maria@algaworks.com");
+        servicoDeCobranca.pagar(fatura,"joao@algaworks.com.br");
 //        servicoDeCobranca.pagar(fatura);
     }
 }
