@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/arrayCalendario/arrayCalendario.iml" filepath="$PROJECT_DIR$/arrayCalendario/arrayCalendario.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayCardapio/arrayCardapio.iml" filepath="$PROJECT_DIR$/arrayCardapio/arrayCardapio.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrayDimencoes/arrayDimencoes.iml" filepath="$PROJECT_DIR$/arrayDimencoes/arrayDimencoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attVarargs/attVarargs.iml" filepath="$PROJECT_DIR$/attVarargs/attVarargs.iml" />
       <module fileurl="file://$PROJECT_DIR$/parametrosComando/parametrosComando.iml" filepath="$PROJECT_DIR$/parametrosComando/parametrosComando.iml" />
     </modules>
   </component>
