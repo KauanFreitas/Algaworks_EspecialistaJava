@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JvmTeste/JvmTeste.iml" filepath="$PROJECT_DIR$/JvmTeste/JvmTeste.iml" />
       <module fileurl="file://$PROJECT_DIR$/MemoriaJava.iml" filepath="$PROJECT_DIR$/MemoriaJava.iml" />
     </modules>
   </component>
