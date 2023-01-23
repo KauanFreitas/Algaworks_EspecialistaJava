@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/construtor_parametros/construtor_parametros.iml" filepath="$PROJECT_DIR$/construtor_parametros/construtor_parametros.iml" />
       <module fileurl="file://$PROJECT_DIR$/construtores.iml" filepath="$PROJECT_DIR$/construtores.iml" />
       <module fileurl="file://$PROJECT_DIR$/costrutor/costrutor.iml" filepath="$PROJECT_DIR$/costrutor/costrutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encadeamento_chamadas_construtores/encadeamento_chamadas_construtores.iml" filepath="$PROJECT_DIR$/encadeamento_chamadas_construtores/encadeamento_chamadas_construtores.iml" />
       <module fileurl="file://$PROJECT_DIR$/sobrecarga_construtores/sobrecarga_construtores.iml" filepath="$PROJECT_DIR$/sobrecarga_construtores/sobrecarga_construtores.iml" />
     </modules>
   </component>
