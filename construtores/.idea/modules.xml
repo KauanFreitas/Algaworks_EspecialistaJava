@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/boa_praticaca_construtores/boa_praticaca_construtores.iml" filepath="$PROJECT_DIR$/boa_praticaca_construtores/boa_praticaca_construtores.iml" />
       <module fileurl="file://$PROJECT_DIR$/construtor_parametros/construtor_parametros.iml" filepath="$PROJECT_DIR$/construtor_parametros/construtor_parametros.iml" />
       <module fileurl="file://$PROJECT_DIR$/construtores.iml" filepath="$PROJECT_DIR$/construtores.iml" />
       <module fileurl="file://$PROJECT_DIR$/costrutor/costrutor.iml" filepath="$PROJECT_DIR$/costrutor/costrutor.iml" />
