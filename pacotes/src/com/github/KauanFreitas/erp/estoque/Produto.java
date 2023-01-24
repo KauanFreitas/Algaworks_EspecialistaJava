@@ -10,15 +10,15 @@ public class Produto {
     String nome;
     int quantidadeEstoque;
 
-    Produto() {
+     public Produto() {
         this("Sem nome");
     }
 
-    Produto(String nome) {
+    public Produto(String nome) {
         this(nome, QUANTIDADE_ESTOQUE_INICIAL);
     }
 
-    Produto(String nome, int estoqueInicial) {
+    public Produto(String nome, int estoqueInicial) {
         Objects.requireNonNull(nome, "Nome é obrigatório");
 
         if (estoqueInicial < 0) {
