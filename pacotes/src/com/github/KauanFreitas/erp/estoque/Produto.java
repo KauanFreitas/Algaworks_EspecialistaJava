@@ -10,7 +10,7 @@ public class Produto {
     String nome;
     int quantidadeEstoque;
 
-     public Produto() {
+    public Produto() {
         this("Sem nome");
     }
 
