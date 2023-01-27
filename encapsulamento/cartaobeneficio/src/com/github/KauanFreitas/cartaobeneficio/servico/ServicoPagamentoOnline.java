@@ -7,16 +7,11 @@ import com.github.KauanFreitas.cartaobeneficio.Recibo;
 public class ServicoPagamentoOnline {
 
     public Recibo efetuarPagamento (Estabelecimento estabelecimento,
-                                    Cartao cartao, double valor){
+                                    Cartao cartao, double valor) {
+        cartao.debitar(valor);
 
-        if (cartao.saldo < valor){
-            throw new RuntimeException("Saldo insuficiente para pagamento");
-        }
+        // TODO realiza outras lógicas para efetuar o pagamento ao estabelecimento
 
-        cartao.saldo -= valor;
-
-        // TODO Realizar outras lógicas para efetuar o pagamento ao estabelecimento
-
-        return  new Recibo(cartao.titular, "Pagamento", valor);
+        return new Recibo(cartao.obterTitular(), "Pagamento", valor);
     }
 }

@@ -9,8 +9,6 @@ public class Principal {
         var supermercado = new Estabelecimento("Supermercado do Zé");
         var cartao = new Cartao("João Souza Silva");
 
-//        cartao.saldo = -700;
-
         var servicoDeDeposito = new ServicoDepositoPix();
         Recibo reciboDeposito = servicoDeDeposito.efetuarDeposito(cartao, 500);
         reciboDeposito.imprimir();
@@ -19,7 +17,7 @@ public class Principal {
         Recibo reciboPagamento = servicoDePagamento.efetuarPagamento(supermercado, cartao, 100);
         reciboPagamento.imprimir();
 
-        System.out.printf("Titular: %s%n", cartao.titular);
-        System.out.printf("Saldo: R$%.2f%n", cartao.saldo);
+        System.out.printf("Titular: %s%n", cartao.obterTitular());
+        System.out.printf("Saldo: R$%.2f%n", cartao.obterSaldo());
     }
 }

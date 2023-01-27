@@ -6,17 +6,11 @@ import com.github.KauanFreitas.cartaobeneficio.Recibo;
 public class ServicoDepositoPix {
 
     public Recibo efetuarDeposito(Cartao cartao, double valorDeposito){
-        // TODO Faz cobrança do valor pix
+        // TODO faz cobrança do valor no Pix
 
-        if (valorDeposito < Cartao.VALOR_MINIMO_DEPOSITO){
-            throw new IllegalArgumentException(
-                    String.format("VAlor de depósito não pode ser menor que %.2f",Cartao.VALOR_MINIMO_DEPOSITO)
-            );
-        }
+        cartao.depositar(valorDeposito);
 
-        cartao.saldo += valorDeposito - Cartao.TARIFA_DEPOSITO;
-
-        return new Recibo(cartao.titular, "Depósito",valorDeposito);
+        return new Recibo(cartao.obterTitular(), "Depósito", valorDeposito);
     }
 
 }
