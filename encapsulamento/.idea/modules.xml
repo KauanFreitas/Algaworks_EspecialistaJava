@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/agenda/agenda.iml" filepath="$PROJECT_DIR$/agenda/agenda.iml" />
       <module fileurl="file://$PROJECT_DIR$/agenda2/agenda2.iml" filepath="$PROJECT_DIR$/agenda2/agenda2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agendaRecord/agendaRecord.iml" filepath="$PROJECT_DIR$/agendaRecord/agendaRecord.iml" />
       <module fileurl="file://$PROJECT_DIR$/cartaobeneficio/cartaobeneficio.iml" filepath="$PROJECT_DIR$/cartaobeneficio/cartaobeneficio.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafioencapsulamentojavabeans/desafioencapsulamentojavabeans.iml" filepath="$PROJECT_DIR$/desafioencapsulamentojavabeans/desafioencapsulamentojavabeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento.iml" />
