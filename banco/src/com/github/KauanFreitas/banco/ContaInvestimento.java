@@ -1,11 +1,13 @@
 package com.github.KauanFreitas.banco;
 
-public class Conta {
+public class ContaInvestimento {
 
     private Titular titular;
     private int agencia;
     private int numero;
     private double saldo;
+    private double valorTotalRendimento;
+
 
     public Titular getTitular() {
         return titular;
@@ -33,6 +35,18 @@ public class Conta {
 
     public double getSaldo() {
         return saldo;
+    }
+
+    public double getValorTotalRendimento() {
+        return valorTotalRendimento;
+    }
+
+
+
+    public void creditarRendimento (double percentualJuros){
+        double valorRendimentos = getSaldo() * percentualJuros/100;
+        this.valorTotalRendimento += valorRendimentos;
+        depositar(valorRendimentos);
     }
 
     public void sacar(double valorSaque) {
