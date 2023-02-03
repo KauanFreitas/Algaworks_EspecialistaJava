@@ -5,10 +5,8 @@ import com.github.KauanFreitas.banco.Titular;
 public class Principal2 {
 
     public static void main(String[] args) {
-        ContaInvestimento conta2 = new ContaInvestimento();
-        conta2.setTitular(new Titular("João da Silva", "12312312300"));
-        conta2.setAgencia(1234);
-        conta2.setNumero(999999);
+        Titular titular = new Titular ("João da Silva", "12312312300");
+        ContaInvestimento conta2 = new ContaInvestimento(titular,1234,999999);
 
 
         conta2.imprimirDemonstrativo();
