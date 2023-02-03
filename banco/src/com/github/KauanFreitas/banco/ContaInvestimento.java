@@ -4,6 +4,9 @@ public class ContaInvestimento extends Conta {
 
     private double valorTotalRendimento;
 
+    public  ContaInvestimento(){
+    super();
+    }
 
     public void creditarRendimento (double percentualJuros){
         double valorRendimentos = getSaldo() * percentualJuros/100;
