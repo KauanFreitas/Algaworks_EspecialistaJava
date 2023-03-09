@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesafioMenbrosEstaticos/DesafioMenbrosEstaticos.iml" filepath="$PROJECT_DIR$/DesafioMenbrosEstaticos/DesafioMenbrosEstaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Intellij_Workspace.iml" filepath="$PROJECT_DIR$/.idea/Intellij_Workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemoriaJava/JvmTeste/JvmTeste.iml" filepath="$PROJECT_DIR$/MemoriaJava/JvmTeste/JvmTeste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemoriaJava/MemoriaJava.iml" filepath="$PROJECT_DIR$/MemoriaJava/MemoriaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeiroProjeto/PrimeiroProjeto.iml" filepath="$PROJECT_DIR$/PrimeiroProjeto/PrimeiroProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysAtt/ProjetoPagamento/ProjetoPagamento.iml" filepath="$PROJECT_DIR$/ArraysAtt/ProjetoPagamento/ProjetoPagamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/agenda/agenda.iml" filepath="$PROJECT_DIR$/encapsulamento/agenda/agenda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/agenda2/agenda2.iml" filepath="$PROJECT_DIR$/encapsulamento/agenda2/agenda2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/agendaRecord/agendaRecord.iml" filepath="$PROJECT_DIR$/encapsulamento/agendaRecord/agendaRecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/array2/array2.iml" filepath="$PROJECT_DIR$/arrays/array2/array2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysAtt/arrayCalendario/arrayCalendario.iml" filepath="$PROJECT_DIR$/ArraysAtt/arrayCalendario/arrayCalendario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysAtt/arrayCardapio/arrayCardapio.iml" filepath="$PROJECT_DIR$/ArraysAtt/arrayCardapio/arrayCardapio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysAtt/arrayDimencoes/arrayDimencoes.iml" filepath="$PROJECT_DIR$/ArraysAtt/arrayDimencoes/arrayDimencoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arraysAluno/arraysAluno.iml" filepath="$PROJECT_DIR$/arrays/arraysAluno/arraysAluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arraysString/arraysString.iml" filepath="$PROJECT_DIR$/arrays/arraysString/arraysString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construtores/attConstrutores/attConstrutores.iml" filepath="$PROJECT_DIR$/construtores/attConstrutores/attConstrutores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacotes/attPacotes/attPacotes.iml" filepath="$PROJECT_DIR$/pacotes/attPacotes/attPacotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attSobrecargaMetodos/attSobrecargaMetodos.iml" filepath="$PROJECT_DIR$/attSobrecargaMetodos/attSobrecargaMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysAtt/attVarargs/attVarargs.iml" filepath="$PROJECT_DIR$/ArraysAtt/attVarargs/attVarargs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attWrappersBooxing/attWrappersBooxing.iml" filepath="$PROJECT_DIR$/attWrappersBooxing/attWrappersBooxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-oo/aula-oo.iml" filepath="$PROJECT_DIR$/aula-oo/aula-oo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banco/banco.iml" filepath="$PROJECT_DIR$/banco/banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construtores/boa_praticaca_construtores/boa_praticaca_construtores.iml" filepath="$PROJECT_DIR$/construtores/boa_praticaca_construtores/boa_praticaca_construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calcula-imc/calcula-imc.iml" filepath="$PROJECT_DIR$/calcula-imc/calcula-imc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calcular-folha-pagamentos/calcular-folha-pagamentos.iml" filepath="$PROJECT_DIR$/calcular-folha-pagamentos/calcular-folha-pagamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/cartaobeneficio/cartaobeneficio.iml" filepath="$PROJECT_DIR$/encapsulamento/cartaobeneficio/cartaobeneficio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/companhia-aerea/companhia-aerea.iml" filepath="$PROJECT_DIR$/companhia-aerea/companhia-aerea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construtores/construtor_parametros/construtor_parametros.iml" filepath="$PROJECT_DIR$/construtores/construtor_parametros/construtor_parametros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construtores/costrutor/costrutor.iml" filepath="$PROJECT_DIR$/construtores/costrutor/costrutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/desafioencapsulamentojavabeans/desafioencapsulamentojavabeans.iml" filepath="$PROJECT_DIR$/encapsulamento/desafioencapsulamentojavabeans/desafioencapsulamentojavabeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construtores/encadeamento_chamadas_construtores/encadeamento_chamadas_construtores.iml" filepath="$PROJECT_DIR$/construtores/encadeamento_chamadas_construtores/encadeamento_chamadas_construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-oo/exercicio-aula-oo/exercicio-aula-oo.iml" filepath="$PROJECT_DIR$/aula-oo/exercicio-aula-oo/exercicio-aula-oo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/folha-pagamento/folha-pagamento.iml" filepath="$PROJECT_DIR$/folha-pagamento/folha-pagamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/horario/horario.iml" filepath="$PROJECT_DIR$/encapsulamento/horario/horario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/javabeans/javabeans.iml" filepath="$PROJECT_DIR$/encapsulamento/javabeans/javabeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jo-Ken_Po/jo-Ken_Po.iml" filepath="$PROJECT_DIR$/jo-Ken_Po/jo-Ken_Po.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/law-of-demeter/law-of-demeter.iml" filepath="$PROJECT_DIR$/encapsulamento/law-of-demeter/law-of-demeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matematica-util/matematica-util.iml" filepath="$PROJECT_DIR$/matematica-util/matematica-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construtores/modificador_final_variavel_instacia/modificador_final_variavel_instacia.iml" filepath="$PROJECT_DIR$/construtores/modificador_final_variavel_instacia/modificador_final_variavel_instacia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mutiplas-classes/mutiplas-classes.iml" filepath="$PROJECT_DIR$/mutiplas-classes/mutiplas-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacotes/pacotes.iml" filepath="$PROJECT_DIR$/pacotes/pacotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysAtt/parametrosComando/parametrosComando.iml" filepath="$PROJECT_DIR$/ArraysAtt/parametrosComando/parametrosComando.iml" />
+      <module fileurl="file://$PROJECT_DIR$/porteiro/porteiro.iml" filepath="$PROJECT_DIR$/porteiro/porteiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/precificacao/precificacao.iml" filepath="$PROJECT_DIR$/precificacao/precificacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construtores/sobrecarga_construtores/sobrecarga_construtores.iml" filepath="$PROJECT_DIR$/construtores/sobrecarga_construtores/sobrecarga_construtores.iml" />
+    </modules>
+  </component>
+</project>

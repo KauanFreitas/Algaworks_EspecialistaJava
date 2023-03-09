@@ -1,18 +1,25 @@
-import com.github.KauanFreitas.banco.Conta;
-import com.github.KauanFreitas.banco.ContaEspecial;
-import com.github.KauanFreitas.banco.Titular;
+import com.github.KauanFreitas.banco.*;
 
 public class Principal {
 
     public static void main(String[] args) {
-            Titular titular = new Titular("João da Silva", "12312312300");
-            Conta conta1 = new Conta(titular, 1234, 999999);
-            Conta conta2 = new Conta(titular, 1234, 999999);
-            ContaEspecial contaEspecial = new ContaEspecial(titular, 1234, 999999, 90);
+        CaixaEletronico caixaEletronico = new CaixaEletronico();
 
-            System.out.println(conta1.equals(conta2));
-            System.out.println(conta1.equals(contaEspecial));
-        }
+        ContaEspecial conta1 = new ContaEspecial(new Titular("João da Silva", "12312312300"),
+                1234, 999999, 90);
+        conta1.setLimiteChequeEspecial(1000);
 
+        ContaEspecial conta2 = new ContaEspecial(new Titular("Maria Joana", "98798798700"),
+                2222, 888888, 90);
+
+        ContaSalario conta3 = new ContaSalario(new Titular("Francisco Souza", "78978978955"),
+                3333, 777777, 18_000);
+
+        conta1.depositar(300);
+
+        caixaEletronico.transferir(conta1, conta3, 50);
+        conta1.imprimirDemonstrativo();
+        conta3.imprimirDemonstrativo();
+    }
 
     }
