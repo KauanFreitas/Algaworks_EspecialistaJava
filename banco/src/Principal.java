@@ -17,7 +17,7 @@ public class Principal {
 
         conta1.depositar(300);
 
-        caixaEletronico.transferir(conta1, conta3, 50);
+        caixaEletronico.transferir(conta3, conta1, 50);
         conta1.imprimirDemonstrativo();
         conta3.imprimirDemonstrativo();
     }
