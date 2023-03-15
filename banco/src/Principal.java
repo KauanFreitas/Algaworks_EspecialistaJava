@@ -18,7 +18,7 @@ public class Principal {
                 1234, 999999, 18_000);
         conta3.depositar(100);
 
-      caixaEletronico.imprimirDemonstrativo(conta1);
+      caixaEletronico.imprimirDemonstrativo(conta2);
     }
 
     }
