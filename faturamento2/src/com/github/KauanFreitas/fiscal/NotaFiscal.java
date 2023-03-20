@@ -1,6 +1,6 @@
 package com.github.KauanFreitas.fiscal;
 
-public class NotaFiscal {
+public abstract class NotaFiscal {
 
     private String descricao;
     private double valorTotal;
